@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Table-with-filters/static/css/main.71f97198.css",
+    "main.js": "/Table-with-filters/static/js/main.3d542f16.js",
+    "index.html": "/Table-with-filters/index.html",
+    "main.71f97198.css.map": "/Table-with-filters/static/css/main.71f97198.css.map",
+    "main.3d542f16.js.map": "/Table-with-filters/static/js/main.3d542f16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f97198.css",
+    "static/js/main.3d542f16.js"
+  ]
+}
